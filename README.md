@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Trabelsi Omar
-- 👀 I’m interested in Networking,Programming,Cybersecurity
+- 👋 Hi, I'm Omar Trabelsi and I currently work as a network administrator 
+- 👀 I’m interested in Networking,Programming and Cybersecurity
 
 
 <!---
